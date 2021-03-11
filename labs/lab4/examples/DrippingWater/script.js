@@ -19,5 +19,4 @@ function draw() {
   if (dripY[0] == 50){
     dripY.unshift(0);
   }
-
 }
